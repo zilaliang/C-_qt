@@ -1,0 +1,42 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>images/crosswise/RotateRight.png</file>
+        <file>images/crosswise/ZoomIn.png</file>
+        <file>images/crosswise/ZoomOut.png</file>
+        <file>images/crosswise/RotateLeft.png</file>
+        <file>images/crosswise/Restore.png</file>
+        <file>images/crosswise/Quit.png</file>
+        <file>images/crosswise/GroupBreak.png</file>
+        <file>images/crosswise/Group.png</file>
+        <file>images/crosswise/Front.png</file>
+        <file>images/crosswise/Delete.png</file>
+        <file>images/crosswise/Back.png</file>
+        <file>images/crosswise/ocean.png</file>
+        <file>images/crosswise/Gray.png</file>
+        <file>images/crosswise/Edge.png</file>
+
+        <file>images/vertical/Photo.png</file>
+        <file>images/vertical/Rect.png</file>
+        <file>images/vertical/Triangle.png</file>
+        <file>images/vertical/polygon.png</file>
+        <file>images/vertical/Ellipse.png</file>
+        <file>images/vertical/Text.png</file>
+        <file>images/vertical/Circle.png</file>
+        <file>images/vertical/Line.png</file>
+        <file>images/vertical/Paint.png</file>
+
+        <file>images/vertical2/Pallete.png</file>
+        <file>images/vertical2/penwidth.png</file>
+        <file>images/vertical2/eraser.png</file>
+
+        <file>images/mouse/round.png</file>
+
+        <file>images/StorageAndread/Read.png</file>
+        <file>images/StorageAndread/Storage.png</file>
+        <file>images/StorageAndread/Date.png</file>
+
+        <file>images/StorageAndread/Deserialization.png</file>
+        <file>images/StorageAndread/Serialization.png</file>
+    </qresource>
+</RCC>
