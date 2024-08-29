@@ -1,7 +1,7 @@
 # C++ qt
 Qt画图板 opencv图像处理
 # 简介：
-基于 Qt 框架的图形界面程序，涉及图形绘制、交互和处理等功能
+基于 Qt 框架的图形界面程序，涉及图形绘制、交互和处理等功能，并且实现了数据库存储和序列化存储 以及对应的读取
 # 效果
 ![image](https://github.com/user-attachments/assets/3bd7f993-cbd7-45a3-abba-30943d5c2be5)
 #	使用方法
